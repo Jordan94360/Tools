@@ -16,8 +16,7 @@
 ***
 ## **3. Usage** ##
 
-
-- **3.1** Provide two seperate .csv files each containing two columns labled "Lat" and "Long" with the respective coordinate data. See below for example. The program will lable the two files *list_1* and *list_2*.
+- **3.1** Provide two seperate .csv files each containing two columns labled "Lat" and "Long" with the respective coordinate data. See below for example. The program will lable the two files *list_1* and *list_2*. Examples of this data are provided in the data folder.
 
 <img  src="https://raw.githubusercontent.com/Jordan94360/Tools/main/coordinates%20calculator/images/lat_long_data_example.png" width="280" height="260" >
 
