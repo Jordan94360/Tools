@@ -1,6 +1,6 @@
 <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2016/02/measure-google-maps.jpg">
 
-# **Latitude/Longitiude Calculator: Measuring lists of plots against each other** #
+# **Latitude/Longitude Calculator: Measuring lists of plots against each other** #
 
 ## **1. Description** ##
  A program that compares a list of coordinates against another list of coordinates and calculates the distance between them. The coordinate pair with the shortest distance are returned to a dataframe.
